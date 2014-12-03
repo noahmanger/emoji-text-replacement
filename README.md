@@ -1,7 +1,7 @@
 #Emoji Text Replacement in OS X Yosemite
 Ever wished you could use `:thumbsup:` outside of Slack, GitHub, or any of the other apps [listed here](http://www.emoji-cheat-sheet.com/)?
 
-This project is a fork of [Github Emoji Expansion in OSX](https://github.com/gregburek/github-emoji-expansion-in-osx) that rewrites the generator script to create a plist formatted in a way that allows it to be drag-n-dropped into Yosemite's Text preferences panel.
+This project is a fork of [Github Emoji Expansion in OSX](https://github.com/gregburek/github-emoji-expansion-in-osx) that modifies the generator script to create another plist formatted in a way that allows it to be drag-n-dropped into Yosemite's Text preferences panel.
 
 Feedback and suggestions are welcome, especially if you have ideas for making the installation even easier.
 
