@@ -17,3 +17,5 @@ Running `bundle exec ruby generate_plist.rb` will genereate `emoji.plist` which 
 
 ##Credits
 Thanks to [Greg Burek](https://github.com/gregburek) for writing the [original script](https://github.com/gregburek/github-emoji-expansion-in-osx) to generate the plist. If you're curious about getting this set up on non Yosemite machines, you'll want to head over to that repo for the full instructions.
+
+Thanks to Twitter for the [Twitter Emoji](https://github.com/twitter/twemoji) library so Chrome users can see emojis on the site.
