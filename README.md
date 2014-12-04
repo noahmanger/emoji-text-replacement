@@ -13,9 +13,9 @@ Instructions from the original repo:
 
 >The generation script has been tested on Ruby versions 1.9.2-p290 and 1.9.3-p327 and I recommend developing the project in a similar environment as unicode support in 1.8 is not best. Install dependencies locally by running bundle install.
 
-Running `bundle exec ruby generate_plist.rb` will genereate `emoji.plist` which is for dragging into the Text Preferences panel in Yosemite, and `NSUserReplacementItems.plist` which can be used if you're following the terminal instructions in [the original repo](https://github.com/gregburek/github-emoji-expansion-in-osx)
+Running `bundle exec ruby generate_plist.rb` will now generate `emoji.plist` which is for dragging into the Text Preferences panel in Yosemite, and `NSUserReplacementItems.plist` which can be used if you're following the terminal instructions in [the original repo](https://github.com/gregburek/github-emoji-expansion-in-osx)
 
 ##Credits
-Thanks to [Greg Burek](https://github.com/gregburek) for writing the [original script](https://github.com/gregburek/github-emoji-expansion-in-osx) to generate the plist. If you're curious about getting this set up on non Yosemite machines, you'll want to head over to that repo for the full instructions.
+Thanks to [Greg Burek](https://github.com/gregburek) for writing the [original script](https://github.com/gregburek/github-emoji-expansion-in-osx) to generate the plist. If you're curious about getting this set up on non-Yosemite machines, you'll want to head over to that repo for the full instructions.
 
 Thanks to Twitter for the [Twitter Emoji](https://github.com/twitter/twemoji) library so Chrome users can see emojis on the site.
