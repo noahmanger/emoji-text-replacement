@@ -41,7 +41,7 @@ def get_items()
     too_complex.each {|emoji| puts " * #{emoji['code']} - #{emoji['unicode']}"}
   end
 
-  return emoji_pairs
+  return emoji_pairs.sort_by { |ep| ep['code'] }
 end
 
 class EmojiList
