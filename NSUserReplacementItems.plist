@@ -49,7 +49,7 @@
             <key>replace</key>
             <string>:a:</string>
             <key>with</key>
-            <string>🅰</string>
+            <string>🅰️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -97,7 +97,7 @@
             <key>replace</key>
             <string>:airplane:</string>
             <key>with</key>
-            <string>✈</string>
+            <string>✈️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -201,7 +201,7 @@
             <key>replace</key>
             <string>:arrow_backward:</string>
             <key>with</key>
-            <string>◀</string>
+            <string>◀️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -225,7 +225,7 @@
             <key>replace</key>
             <string>:arrow_down:</string>
             <key>with</key>
-            <string>⬇</string>
+            <string>⬇️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -241,7 +241,7 @@
             <key>replace</key>
             <string>:arrow_forward:</string>
             <key>with</key>
-            <string>▶</string>
+            <string>▶️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -249,7 +249,7 @@
             <key>replace</key>
             <string>:arrow_heading_down:</string>
             <key>with</key>
-            <string>⤵</string>
+            <string>⤵️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -257,7 +257,7 @@
             <key>replace</key>
             <string>:arrow_heading_up:</string>
             <key>with</key>
-            <string>⤴</string>
+            <string>⤴️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -265,7 +265,7 @@
             <key>replace</key>
             <string>:arrow_left:</string>
             <key>with</key>
-            <string>⬅</string>
+            <string>⬅️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -273,7 +273,7 @@
             <key>replace</key>
             <string>:arrow_lower_left:</string>
             <key>with</key>
-            <string>↙</string>
+            <string>↙️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -281,7 +281,7 @@
             <key>replace</key>
             <string>:arrow_lower_right:</string>
             <key>with</key>
-            <string>↘</string>
+            <string>↘️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -289,7 +289,7 @@
             <key>replace</key>
             <string>:arrow_right:</string>
             <key>with</key>
-            <string>➡</string>
+            <string>➡️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -297,7 +297,7 @@
             <key>replace</key>
             <string>:arrow_right_hook:</string>
             <key>with</key>
-            <string>↪</string>
+            <string>↪️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -305,7 +305,7 @@
             <key>replace</key>
             <string>:arrow_up:</string>
             <key>with</key>
-            <string>⬆</string>
+            <string>⬆️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -313,7 +313,7 @@
             <key>replace</key>
             <string>:arrow_up_down:</string>
             <key>with</key>
-            <string>↕</string>
+            <string>↕️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -329,7 +329,7 @@
             <key>replace</key>
             <string>:arrow_upper_left:</string>
             <key>with</key>
-            <string>↖</string>
+            <string>↖️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -337,7 +337,7 @@
             <key>replace</key>
             <string>:arrow_upper_right:</string>
             <key>with</key>
-            <string>↗</string>
+            <string>↗️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -401,7 +401,7 @@
             <key>replace</key>
             <string>:b:</string>
             <key>with</key>
-            <string>🅱</string>
+            <string>🅱️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -465,7 +465,7 @@
             <key>replace</key>
             <string>:ballot_box_with_check:</string>
             <key>with</key>
-            <string>☑</string>
+            <string>☑️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -489,7 +489,7 @@
             <key>replace</key>
             <string>:bangbang:</string>
             <key>with</key>
-            <string>‼</string>
+            <string>‼️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -521,7 +521,7 @@
             <key>replace</key>
             <string>:baseball:</string>
             <key>with</key>
-            <string>⚾</string>
+            <string>⚾️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -697,7 +697,7 @@
             <key>replace</key>
             <string>:black_medium_square:</string>
             <key>with</key>
-            <string>◼</string>
+            <string>◼️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -705,7 +705,7 @@
             <key>replace</key>
             <string>:black_nib:</string>
             <key>with</key>
-            <string>✒</string>
+            <string>✒️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -713,7 +713,7 @@
             <key>replace</key>
             <string>:black_small_square:</string>
             <key>with</key>
-            <string>▪</string>
+            <string>▪️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1087,17 +1087,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:cat:</string>
+            <string>:cat2:</string>
             <key>with</key>
-            <string>🐱</string>
+            <string>🐈</string>
           </dict>
                 <dict>
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:cat2:</string>
+            <string>:cat:</string>
             <key>with</key>
-            <string>🐈</string>
+            <string>🐱</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1271,9 +1271,9 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:clock1:</string>
+            <string>:clock1030:</string>
             <key>with</key>
-            <string>🕐</string>
+            <string>🕥</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1287,9 +1287,9 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:clock1030:</string>
+            <string>:clock1130:</string>
             <key>with</key>
-            <string>🕥</string>
+            <string>🕦</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1303,9 +1303,9 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:clock1130:</string>
+            <string>:clock1230:</string>
             <key>with</key>
-            <string>🕦</string>
+            <string>🕧</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1319,14 +1319,6 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:clock1230:</string>
-            <key>with</key>
-            <string>🕧</string>
-          </dict>
-                <dict>
-            <key>on</key>
-            <integer>1</integer>
-            <key>replace</key>
             <string>:clock130:</string>
             <key>with</key>
             <string>🕜</string>
@@ -1335,9 +1327,9 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:clock2:</string>
+            <string>:clock1:</string>
             <key>with</key>
-            <string>🕑</string>
+            <string>🕐</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1351,9 +1343,9 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:clock3:</string>
+            <string>:clock2:</string>
             <key>with</key>
-            <string>🕒</string>
+            <string>🕑</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1367,9 +1359,9 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:clock4:</string>
+            <string>:clock3:</string>
             <key>with</key>
-            <string>🕓</string>
+            <string>🕒</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1383,9 +1375,9 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:clock5:</string>
+            <string>:clock4:</string>
             <key>with</key>
-            <string>🕔</string>
+            <string>🕓</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1399,9 +1391,9 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:clock6:</string>
+            <string>:clock5:</string>
             <key>with</key>
-            <string>🕕</string>
+            <string>🕔</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1415,9 +1407,9 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:clock7:</string>
+            <string>:clock6:</string>
             <key>with</key>
-            <string>🕖</string>
+            <string>🕕</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1431,9 +1423,9 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:clock8:</string>
+            <string>:clock7:</string>
             <key>with</key>
-            <string>🕗</string>
+            <string>🕖</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1447,9 +1439,9 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:clock9:</string>
+            <string>:clock8:</string>
             <key>with</key>
-            <string>🕘</string>
+            <string>🕗</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1458,6 +1450,14 @@
             <string>:clock930:</string>
             <key>with</key>
             <string>🕤</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
+            <string>:clock9:</string>
+            <key>with</key>
+            <string>🕘</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1489,7 +1489,7 @@
             <key>replace</key>
             <string>:cloud:</string>
             <key>with</key>
-            <string>☁</string>
+            <string>☁️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1497,7 +1497,15 @@
             <key>replace</key>
             <string>:clubs:</string>
             <key>with</key>
-            <string>♣</string>
+            <string>♣️</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
+            <string>:cn:</string>
+            <key>with</key>
+            <string>🇨🇳</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1569,7 +1577,7 @@
             <key>replace</key>
             <string>:congratulations:</string>
             <key>with</key>
-            <string>㊗</string>
+            <string>㊗️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1625,7 +1633,7 @@
             <key>replace</key>
             <string>:copyright:</string>
             <key>with</key>
-            <string>©</string>
+            <string>©️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1663,17 +1671,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:cow:</string>
+            <string>:cow2:</string>
             <key>with</key>
-            <string>🐮</string>
+            <string>🐄</string>
           </dict>
                 <dict>
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:cow2:</string>
+            <string>:cow:</string>
             <key>with</key>
-            <string>🐄</string>
+            <string>🐮</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1847,6 +1855,14 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
+            <string>:de:</string>
+            <key>with</key>
+            <string>🇩🇪</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
             <string>:deciduous_tree:</string>
             <key>with</key>
             <string>🌳</string>
@@ -1873,7 +1889,7 @@
             <key>replace</key>
             <string>:diamonds:</string>
             <key>with</key>
-            <string>♦</string>
+            <string>♦️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -1919,17 +1935,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:dog:</string>
+            <string>:dog2:</string>
             <key>with</key>
-            <string>🐶</string>
+            <string>🐕</string>
           </dict>
                 <dict>
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:dog2:</string>
+            <string>:dog:</string>
             <key>with</key>
-            <string>🐕</string>
+            <string>🐶</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2089,7 +2105,7 @@
             <key>replace</key>
             <string>:eight:</string>
             <key>with</key>
-            <string>8</string>
+            <string>8️⃣</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2097,7 +2113,7 @@
             <key>replace</key>
             <string>:eight_pointed_black_star:</string>
             <key>with</key>
-            <string>✴</string>
+            <string>✴️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2105,7 +2121,7 @@
             <key>replace</key>
             <string>:eight_spoked_asterisk:</string>
             <key>with</key>
-            <string>✳</string>
+            <string>✳️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2129,7 +2145,7 @@
             <key>replace</key>
             <string>:email:</string>
             <key>with</key>
-            <string>✉</string>
+            <string>✉️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2145,7 +2161,7 @@
             <key>replace</key>
             <string>:envelope:</string>
             <key>with</key>
-            <string>✉</string>
+            <string>✉️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2154,6 +2170,14 @@
             <string>:envelope_with_arrow:</string>
             <key>with</key>
             <string>📩</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
+            <string>:es:</string>
+            <key>with</key>
+            <string>🇪🇸</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2377,7 +2401,7 @@
             <key>replace</key>
             <string>:five:</string>
             <key>with</key>
-            <string>5</string>
+            <string>5️⃣</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2394,6 +2418,14 @@
             <string>:flashlight:</string>
             <key>with</key>
             <string>🔦</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
+            <string>:flipper:</string>
+            <key>with</key>
+            <string>🐬</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2465,7 +2497,7 @@
             <key>replace</key>
             <string>:four:</string>
             <key>with</key>
-            <string>4</string>
+            <string>4️⃣</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2474,6 +2506,14 @@
             <string>:four_leaf_clover:</string>
             <key>with</key>
             <string>🍀</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
+            <string>:fr:</string>
+            <key>with</key>
+            <string>🇫🇷</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2546,6 +2586,14 @@
             <string>:game_die:</string>
             <key>with</key>
             <string>🎲</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
+            <string>:gb:</string>
+            <key>with</key>
+            <string>🇬🇧</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2777,7 +2825,7 @@
             <key>replace</key>
             <string>:hash:</string>
             <key>with</key>
-            <string>#</string>
+            <string>#️⃣</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2817,7 +2865,7 @@
             <key>replace</key>
             <string>:heart:</string>
             <key>with</key>
-            <string>❤</string>
+            <string>❤️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2865,7 +2913,7 @@
             <key>replace</key>
             <string>:hearts:</string>
             <key>with</key>
-            <string>♥</string>
+            <string>♥️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2873,7 +2921,7 @@
             <key>replace</key>
             <string>:heavy_check_mark:</string>
             <key>with</key>
-            <string>✔</string>
+            <string>✔️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -2913,7 +2961,7 @@
             <key>replace</key>
             <string>:heavy_multiplication_x:</string>
             <key>with</key>
-            <string>✖</string>
+            <string>✖️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -3025,7 +3073,7 @@
             <key>replace</key>
             <string>:hotsprings:</string>
             <key>with</key>
-            <string>♨</string>
+            <string>♨️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -3137,7 +3185,7 @@
             <key>replace</key>
             <string>:information_source:</string>
             <key>with</key>
-            <string>ℹ</string>
+            <string>ℹ️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -3153,7 +3201,7 @@
             <key>replace</key>
             <string>:interrobang:</string>
             <key>with</key>
-            <string>⁉</string>
+            <string>⁉️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -3162,6 +3210,14 @@
             <string>:iphone:</string>
             <key>with</key>
             <string>📱</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
+            <string>:it:</string>
+            <key>with</key>
+            <string>🇮🇹</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -3239,6 +3295,14 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
+            <string>:jp:</string>
+            <key>with</key>
+            <string>🇯🇵</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
             <string>:key:</string>
             <key>with</key>
             <string>🔑</string>
@@ -3311,6 +3375,14 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
+            <string>:knife:</string>
+            <key>with</key>
+            <string>🔪</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
             <string>:koala:</string>
             <key>with</key>
             <string>🐨</string>
@@ -3322,6 +3394,14 @@
             <string>:koko:</string>
             <key>with</key>
             <string>🈁</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
+            <string>:kr:</string>
+            <key>with</key>
+            <string>🇰🇷</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -3409,7 +3489,7 @@
             <key>replace</key>
             <string>:left_right_arrow:</string>
             <key>with</key>
-            <string>↔</string>
+            <string>↔️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -3417,7 +3497,7 @@
             <key>replace</key>
             <string>:leftwards_arrow_with_hook:</string>
             <key>with</key>
-            <string>↩</string>
+            <string>↩️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -3519,6 +3599,14 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
+            <string>:loud_sound:</string>
+            <key>with</key>
+            <string>🔊</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
             <string>:loudspeaker:</string>
             <key>with</key>
             <string>📢</string>
@@ -3553,7 +3641,7 @@
             <key>replace</key>
             <string>:m:</string>
             <key>with</key>
-            <string>Ⓜ</string>
+            <string>Ⓜ️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -3855,17 +3943,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:mouse:</string>
+            <string>:mouse2:</string>
             <key>with</key>
-            <string>🐭</string>
+            <string>🐁</string>
           </dict>
                 <dict>
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:mouse2:</string>
+            <string>:mouse:</string>
             <key>with</key>
-            <string>🐁</string>
+            <string>🐭</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4015,9 +4103,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
+            <string>:night_with_stars:</string>
+            <key>with</key>
+            <string>🌃</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
             <string>:nine:</string>
             <key>with</key>
-            <string>9</string>
+            <string>9️⃣</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4143,17 +4239,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:o:</string>
+            <string>:o2:</string>
             <key>with</key>
-            <string>⭕</string>
+            <string>🅾️</string>
           </dict>
                 <dict>
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:o2:</string>
+            <string>:o:</string>
             <key>with</key>
-            <string>🅾</string>
+            <string>⭕</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4273,7 +4369,7 @@
             <key>replace</key>
             <string>:one:</string>
             <key>with</key>
-            <string>1</string>
+            <string>1️⃣</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4401,7 +4497,7 @@
             <key>replace</key>
             <string>:parking:</string>
             <key>with</key>
-            <string>🅿</string>
+            <string>🅿️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4409,7 +4505,7 @@
             <key>replace</key>
             <string>:part_alternation_mark:</string>
             <key>with</key>
-            <string>〽</string>
+            <string>〽️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4455,17 +4551,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:pencil:</string>
+            <string>:pencil2:</string>
             <key>with</key>
-            <string>📝</string>
+            <string>✏️</string>
           </dict>
                 <dict>
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:pencil2:</string>
+            <string>:pencil:</string>
             <key>with</key>
-            <string>✏</string>
+            <string>📝</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4529,15 +4625,7 @@
             <key>replace</key>
             <string>:phone:</string>
             <key>with</key>
-            <string>☎</string>
-          </dict>
-                <dict>
-            <key>on</key>
-            <integer>1</integer>
-            <key>replace</key>
-            <string>:pig:</string>
-            <key>with</key>
-            <string>🐷</string>
+            <string>☎️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4546,6 +4634,14 @@
             <string>:pig2:</string>
             <key>with</key>
             <string>🐖</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
+            <string>:pig:</string>
+            <key>with</key>
+            <string>🐷</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4617,7 +4713,7 @@
             <key>replace</key>
             <string>:point_up:</string>
             <key>with</key>
-            <string>☝</string>
+            <string>☝️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4783,17 +4879,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:rabbit:</string>
+            <string>:rabbit2:</string>
             <key>with</key>
-            <string>🐰</string>
+            <string>🐇</string>
           </dict>
                 <dict>
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:rabbit2:</string>
+            <string>:rabbit:</string>
             <key>with</key>
-            <string>🐇</string>
+            <string>🐰</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4897,7 +4993,7 @@
             <key>replace</key>
             <string>:recycle:</string>
             <key>with</key>
-            <string>♻</string>
+            <string>♻️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4921,7 +5017,7 @@
             <key>replace</key>
             <string>:registered:</string>
             <key>with</key>
-            <string>®</string>
+            <string>®️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -4929,7 +5025,7 @@
             <key>replace</key>
             <string>:relaxed:</string>
             <key>with</key>
-            <string>☺</string>
+            <string>☺️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -5087,6 +5183,14 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
+            <string>:ru:</string>
+            <key>with</key>
+            <string>🇷🇺</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
             <string>:rugby_football:</string>
             <key>with</key>
             <string>🏉</string>
@@ -5121,7 +5225,7 @@
             <key>replace</key>
             <string>:sa:</string>
             <key>with</key>
-            <string>🈂</string>
+            <string>🈂️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -5209,7 +5313,7 @@
             <key>replace</key>
             <string>:scissors:</string>
             <key>with</key>
-            <string>✂</string>
+            <string>✂️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -5257,7 +5361,7 @@
             <key>replace</key>
             <string>:secret:</string>
             <key>with</key>
-            <string>㊙</string>
+            <string>㊙️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -5281,7 +5385,7 @@
             <key>replace</key>
             <string>:seven:</string>
             <key>with</key>
-            <string>7</string>
+            <string>7️⃣</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -5361,7 +5465,7 @@
             <key>replace</key>
             <string>:six:</string>
             <key>with</key>
-            <string>6</string>
+            <string>6️⃣</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -5537,7 +5641,7 @@
             <key>replace</key>
             <string>:snowflake:</string>
             <key>with</key>
-            <string>❄</string>
+            <string>❄️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -5601,7 +5705,7 @@
             <key>replace</key>
             <string>:spades:</string>
             <key>with</key>
-            <string>♠</string>
+            <string>♠️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -5617,7 +5721,7 @@
             <key>replace</key>
             <string>:sparkle:</string>
             <key>with</key>
-            <string>❇</string>
+            <string>❇️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -5657,7 +5761,7 @@
             <key>replace</key>
             <string>:speaker:</string>
             <key>with</key>
-            <string>🔊</string>
+            <string>🔈</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -5679,14 +5783,6 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:star:</string>
-            <key>with</key>
-            <string>⭐</string>
-          </dict>
-                <dict>
-            <key>on</key>
-            <integer>1</integer>
-            <key>replace</key>
             <string>:star2:</string>
             <key>with</key>
             <string>🌟</string>
@@ -5695,9 +5791,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
+            <string>:star:</string>
+            <key>with</key>
+            <string>⭐</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
             <string>:stars:</string>
             <key>with</key>
-            <string>🌃</string>
+            <string>🌠</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -5801,7 +5905,7 @@
             <key>replace</key>
             <string>:sunny:</string>
             <key>with</key>
-            <string>☀</string>
+            <string>☀️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -5953,7 +6057,7 @@
             <key>replace</key>
             <string>:telephone:</string>
             <key>with</key>
-            <string>☎</string>
+            <string>☎️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6001,7 +6105,7 @@
             <key>replace</key>
             <string>:three:</string>
             <key>with</key>
-            <string>3</string>
+            <string>3️⃣</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6031,17 +6135,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:tiger:</string>
+            <string>:tiger2:</string>
             <key>with</key>
-            <string>🐯</string>
+            <string>🐅</string>
           </dict>
                 <dict>
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:tiger2:</string>
+            <string>:tiger:</string>
             <key>with</key>
-            <string>🐅</string>
+            <string>🐯</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6057,7 +6161,7 @@
             <key>replace</key>
             <string>:tm:</string>
             <key>with</key>
-            <string>™</string>
+            <string>™️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6127,17 +6231,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:train:</string>
+            <string>:train2:</string>
             <key>with</key>
-            <string>🚃</string>
+            <string>🚆</string>
           </dict>
                 <dict>
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:train2:</string>
+            <string>:train:</string>
             <key>with</key>
-            <string>🚆</string>
+            <string>🚋</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6273,7 +6377,7 @@
             <key>replace</key>
             <string>:two:</string>
             <key>with</key>
-            <string>2</string>
+            <string>2️⃣</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6337,7 +6441,7 @@
             <key>replace</key>
             <string>:u6708:</string>
             <key>with</key>
-            <string>🈷</string>
+            <string>🈷️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6391,6 +6495,14 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
+            <string>:uk:</string>
+            <key>with</key>
+            <string>🇬🇧</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
             <string>:umbrella:</string>
             <key>with</key>
             <string>☔</string>
@@ -6431,9 +6543,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
+            <string>:us:</string>
+            <key>with</key>
+            <string>🇺🇸</string>
+          </dict>
+                <dict>
+            <key>on</key>
+            <integer>1</integer>
+            <key>replace</key>
             <string>:v:</string>
             <key>with</key>
-            <string>✌</string>
+            <string>✌️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6537,7 +6657,7 @@
             <key>replace</key>
             <string>:warning:</string>
             <key>with</key>
-            <string>⚠</string>
+            <string>⚠️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6577,7 +6697,7 @@
             <key>replace</key>
             <string>:wavy_dash:</string>
             <key>with</key>
-            <string>〰</string>
+            <string>〰️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6623,17 +6743,17 @@
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:whale:</string>
+            <string>:whale2:</string>
             <key>with</key>
-            <string>🐳</string>
+            <string>🐋</string>
           </dict>
                 <dict>
             <key>on</key>
             <integer>1</integer>
             <key>replace</key>
-            <string>:whale2:</string>
+            <string>:whale:</string>
             <key>with</key>
-            <string>🐋</string>
+            <string>🐳</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6689,7 +6809,7 @@
             <key>replace</key>
             <string>:white_medium_square:</string>
             <key>with</key>
-            <string>◻</string>
+            <string>◻️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6697,7 +6817,7 @@
             <key>replace</key>
             <string>:white_small_square:</string>
             <key>with</key>
-            <string>▫</string>
+            <string>▫️</string>
           </dict>
                 <dict>
             <key>on</key>
@@ -6833,7 +6953,7 @@
             <key>replace</key>
             <string>:zero:</string>
             <key>with</key>
-            <string>0</string>
+            <string>0️⃣</string>
           </dict>
                 <dict>
             <key>on</key>
