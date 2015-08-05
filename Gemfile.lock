@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/github/gemoji.git
-  revision: a844c2c1f71953d6362b7f3ef9b849d7da588fe3
+  revision: 3db7811891655d6a50809a32306d552662294c44
   specs:
-    gemoji (1.4.0)
+    gemoji (2.1.0)
 
 GEM
   specs:
